@@ -9,7 +9,7 @@ I've been learning to code for a year now and even more ambitious to learn more 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [mwangisam203](http://github.com/mwangisam203)
 * ✉️  You can contact me at [mwangisam203@gmail.com](mailto:mwangisam203@gmail.com)
-* 🧠  I'm learning python, flask, sql, react, javascript,
+* 🧠 
 
 <a href="https://www.github.com/mwangisam203" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mwangisam203?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
