@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samson Maina
 ====================================================================================================================================
 
-I am fullstack dev, proficient in languages such a javascript and python
+I am fullstack dev, proficient in javascript and python languages
 ------------------------------------------------------------------------
 
-I've been learning to code for a year now and even more ambitious to learn more than what I already know. currently working on React Js, python, Flask SQL
+I've been learning to code for a year now and even more ambitious to learn more than what I already know. currently working on React Js, python, Flask, Fastapi, MongoDB, SQL, Docker, Cloud
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [mwangisam203](http://github.com/mwangisam203)
