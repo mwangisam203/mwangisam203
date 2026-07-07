@@ -1,14 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samson Maina
 ====================================================================================================================================
 
-I am fullstack dev, proficient in javascript and python languages
-------------------------------------------------------------------------
+I enjoy building backend-heavy applications that solve real problems, especially systems involving authentication, payments, content platforms, academic workflows, and database-driven dashboards.
 
-I've been learning to code for a year now and even more ambitious to learn more than what I already know. currently working on React Js, python, Flask, Fastapi, MongoDB, SQL, Docker, Cloud
+# Hi 👋, I'm Samson Maina
+
+- Backend-focused Software Engineer based in Kenya
+- Building real-world applications with FastAPI, PostgreSQL, Redis, Celery, Docker, and AWS
+- Interested in backend engineering, APIs, databases, system design, cloud deployment, and scalable web platforms
+- Currently improving my skills in testing, clean architecture, DevOps, and production-ready backend systems
+- Open to remote backend/full-stack opportunities, freelance work, and collaboration
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [mwangisam203](http://github.com/mwangisam203)
-* ✉️  You can contact me at [mwangisam203@gmail.com](mailto:mwangisam203@gmail.com)
+* ✉️  You can contact me at [mwangisam203@gmail.com](:mwangisam203@gmail.com)
 * 🧠 
 
 <a href="https://www.github.com/mwangisam203" target="_blank" rel="noreferrer"><img
