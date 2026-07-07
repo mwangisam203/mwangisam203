@@ -203,7 +203,7 @@ I am especially interested in building APIs, database-driven platforms, authenti
   <a href="https://github.com/mwangisam203">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="your-linkedin-link-here">
+  <a href="https://www.linkedin.com/in/samson-maina-26883116a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
