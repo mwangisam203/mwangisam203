@@ -209,7 +209,7 @@ I am especially interested in building APIs, database-driven platforms, authenti
 </p>
 
 **GitHub:** [github.com/mwangisam203](https://github.com/mwangisam203)  
-**LinkedIn:** [Add your LinkedIn link here](your-linkedin-link-here)  
+**LinkedIn:** https://www.linkedin.com/in/samson-maina-26883116a/  
 **Email:** mwangisam203@gmail.com  
 
 ---
