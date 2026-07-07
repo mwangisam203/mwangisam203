@@ -1,3 +1,23 @@
+# Hi 👋, I'm Samson Maina
+
+### Backend-focused Software Engineer from Kenya
+
+I build practical web applications with strong backend systems, clean APIs, database design, authentication, background jobs, and deployment-ready architecture.
+
+I work mainly with Python, FastAPI, PostgreSQL, Redis, Celery, Docker, AWS, JavaScript, React, and Tailwind CSS.
+
+---
+
+## About Me
+
+- Backend-focused Software Engineer based in Kenya
+- I build APIs, authentication systems, database-driven platforms, background jobs, and cloud-deployed applications
+- Interested in backend engineering, system design, clean architecture, DevOps, and scalable web platforms
+- Open to Backend Developer, Full-Stack Developer, and Software Engineer roles
+- Available for remote, hybrid, and on-site opportunities
+
+---
+
 ## Tech Stack
 
 I work with modern backend and full-stack tools to build clean APIs, database-driven applications, background jobs, and deployment-ready systems.
@@ -11,10 +31,10 @@ I work with modern backend and full-stack tools to build clean APIs, database-dr
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-**PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Alembic**
+**PostgreSQL, MySQL, MongoDB, SQLAlchemy, Alembic**
 
 ### Background Jobs & Caching
 <p>
@@ -25,10 +45,10 @@ I work with modern backend and full-stack tools to build clean APIs, database-dr
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
 </p>
 
-**React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Vite**
+**JavaScript, React, Tailwind CSS**
 
 ### DevOps & Cloud
 <p>
